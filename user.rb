@@ -15,7 +15,7 @@ class User
   end
 
   def save
-    self_json = {email: @email, name: @name, permissions：@permissions}.to_json
+    self_json = {email: @email, name: @name, permissions: @permissions}.to_json
     open('user.json', 'a') do |file|
       file.puts self_json
     end
