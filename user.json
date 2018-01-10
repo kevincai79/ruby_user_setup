@@ -1,0 +1,4 @@
+{"email":"ken@gmail.com","name":"ken","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"john@gmail.com","name":"John","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"john@gmail.com","name":"John","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"jane@gmail.com","name":"Jane","permissions":{"accounts":"read","policies":"write","users":"write"}}
