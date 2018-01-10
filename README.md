@@ -1,4 +1,4 @@
-# ruby_user_setup
+# Ruby User Class Setup
 
 ## Build a program that:
 * Reads in user information that is provided
